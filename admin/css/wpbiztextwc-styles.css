@@ -1,0 +1,108 @@
+
+.wpbiztextwc-placeholders-button {
+
+    margin:0 5px;
+    
+}
+
+.active-focus {
+
+    font-weight:bold;
+    cursor:pointer;
+
+}
+
+.Biz-Text-WC-text-area {
+
+    width:600px !important;
+    margin-top:5px;
+    
+}
+
+
+
+.description {
+
+    margin:0 !important;
+}
+
+.form-table td fieldset label {
+
+    margin:0 !important;
+
+}
+
+
+td.forminp-textarea {
+
+    padding-top:0 !important;
+    
+
+}
+
+textarea:focus {
+  color: #222 !important;
+}
+
+.titledesc {
+
+    padding-top:10px !important;
+    padding-bottom:0 !important;
+
+
+}
+
+.forminp-checkbox {
+
+    padding-top:10px !important;
+    padding-bottom:5px !important;
+
+
+}
+
+#wpbiztextwc_placeholders_fix {
+
+position:fixed;
+bottom:0;
+background:#fff;
+z-index:100;
+padding:10px; 
+
+
+}
+
+.wpbiztextwc-status-active {
+
+    color:#e2401c;
+
+
+}
+
+.wpbiztextwc_disable_table
+
+{
+
+    color:lightgrey;
+}
+
+
+[id^=wpbiztextwc] h3, [id^=wpbiztextwc] p {
+
+    margin-top:0;
+
+}
+
+
+[id^=wpbiztextwc] h3 {
+
+    font-size:1.15em; 
+
+}
+
+.spinner {
+    float: none;
+}
+
+.wpbiztextwc-bad-validation {
+    border: 1px solid #e2401c !important;
+}
